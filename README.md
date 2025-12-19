@@ -6,15 +6,15 @@ I’m a **Software Engineering student @ uOttawa** who loves building things tha
 
 ---
 
-## ✨ About Me
-- 🎓 2nd year Software Engineering student  
-- 💻 Team lead for **FemHealth**’s web development team, a student-led initiative raising awareness about women’s health  
-- 🎮 Big fan of story-driven games, RPGs, and the occasional horror challenge  
-- 💡 Always exploring new ways to learn and grow in tech  
+##  About Me
+-  2nd year Software Engineering student  
+-  Team lead for **FemHealth**’s web development team, a student-led initiative raising awareness about women’s health  
+-  Big fan of story-driven games, RPGs, and the occasional horror challenge  
+-  Always exploring new ways to learn and grow in tech  
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -30,21 +30,21 @@ I’m a **Software Engineering student @ uOttawa** who loves building things tha
 
 ---
 
-## 📌 Projects
-- 💼 **Personal Portfolio** – A portfolio site showcasing my projects and skills  
-- 🥤 **Drink API** – A fun API project for managing and exploring different drinks  
-- 🎶 **[Harmony](https://github.com/Harmaniacz/Harmaniacz.github.io)** – A website designed to promote a fictional app that helps people connect through music  
-- 🌸 **[FemHealth Website](https://github.com/FemHealth/website)** – A web platform to support awareness and resources on women’s health  
-- 📊 **Cavity Risk Analysis** – Data project analyzing survey results  
+## Projects
+-  **Personal Portfolio** – A portfolio site showcasing my projects and skills  
+-  **Drink API** – A fun API project for managing and exploring different drinks  
+-  **[Harmony](https://github.com/Harmaniacz/Harmaniacz.github.io)** – A website designed to promote a fictional app that helps people connect through music  
+-  **[FemHealth Website](https://github.com/FemHealth/website)** – A web platform to support awareness and resources on women’s health  
+-  **Cavity Risk Analysis** – Data project analyzing survey results  
 
 ---
 
-## 🌱 Learning
+##  Learning
 - Modern web frameworks & libraries  
 - Cloud services & APIs  
 
 ---
 
-## 📫 Contact
+##  Contact
 - [LinkedIn](#)  
 - 📧 [yseno102@uottawa.ca](mailto:yseno102@uottawa.ca) · [senyass02@gmail.com](mailto:senyass02@gmail.com)
